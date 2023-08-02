@@ -2,7 +2,9 @@
 
 It is an API Backend system Developed  as per the Assignment :
 The framework used here is Flask as it is easy to write and test APis in it
+
 The Coding language used here is Python
+
 The database used here is MySql
 
 
